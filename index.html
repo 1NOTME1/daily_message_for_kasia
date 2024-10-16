@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wiadomość na dziś</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="front">
+                <h1>Wiadomość na dziś</h1>
+                <select id="categorySelect">
+                    <option value="" disabled selected>Wybierz Wiadomość</option>
+                    <option value="miłosne">Coś miłego😊💖</option>
+                    <option value="motywujące">Coś motywującego💗</option>
+                    <option value="wspierające">Coś Wspierającego💓</option>
+                </select>
+            </div>
+            <div class="back">
+                <p id="message"></p>
+                <p id="countdown"></p>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
