@@ -95,7 +95,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Animacja spadających emotikon
     setInterval(() => {
-        const emojiArray = ['🌸', '💨', '🌺', '❤️', '🌹', '💕'];
+        const emojiArray = ['🌸', '💗', '🌺', '❤️', '🌹', '💕'];
         const emojiCount = Math.floor(Math.random() * 3) + 3;
         for (let i = 0; i < emojiCount; i++) {
             const emoji = document.createElement("div");
@@ -110,7 +110,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 emoji.remove();
             });
         }
-    }, 200);
+    }, 400);
 
     const updateCountdown = () => {
         const now = new Date();
