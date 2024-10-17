@@ -29,8 +29,8 @@ document.addEventListener("DOMContentLoaded", function() {
     ],
     "wspierające": [
         "Jestem tutaj, by Cię wspierać, bez względu na wszystko 🤝",
-        "Wiem, że czasami jest ciężko, ale zawsze możesz na mnie liczyć ❤️",
-        "Nigdy nie jesteś sama, zawsze masz mnie po swojej stronie 🤗",
+        "Wiem, że czasami są cięższe dni, ale zawsze możesz na mnie liczyć i zawsze będę przy tobie💞 jeśli nie fizycznie to na pewno psychicznie😊❤️",
+        "Jestem z ciebie bardzo dumny💗💗 nawet gdy wszyscyci mówią, że niewystarczająco się starasz,ja wiem, że robisz bardzo dużo, i często przez to nie masz czasu dla siebie🙁❤️ ja to widzęi bardzo cie kocham kasia💗❤️",
         // Nowe wiadomości
         "Pamiętaj, że po burzy zawsze wychodzi słońce ☀️",
         "Jesteś silniejsza, niż myślisz 💪",
