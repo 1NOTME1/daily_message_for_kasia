@@ -7,9 +7,11 @@ document.addEventListener("DOMContentLoaded", function() {
         // Nowe wiadomości
         "Kocham się wpatrywać w twoje brązowe oczy niczym galaktyka🌌😊 pełne głębi i piękna, które hipnotyzują za każdym spojrzeniem😶‍🌫️💞",
 
-        "Myśl o tym, że mam tak cudowną dziewczynę sprawia, że chce się starać być dla mniej jeszcze lepszą wersją siebie💖",
+        "Myśl o tym, że mam tak cudowną dziewczynę sprawia, że chce być dla niej jeszcze lepszą wersją siebie💖",
 
-        "Twój uśmiech jest najpiękniejsza rzeczą jaką mogę sobie wyobrazić🤭🥰"
+        "Twój uśmiech jest najpiękniejsza rzeczą jaką mogę sobie wyobrazić🤭🥰",
+
+       "To niesamowite, że los padarował mi tak mądrą, ambitną, piękna i o odważna dziewczynę od której nauczyłem się tak wiele o w tak krótkim czasie💗"
     ],
 
     "motywujące": [
