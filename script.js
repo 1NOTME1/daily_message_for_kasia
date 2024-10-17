@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "Gdy przydarzyła ci się jakaś zła sytuacja, nawet taka którejsie nie da naprawić, zawsze uważam, że nawet z bardzo złych sytuacji może wyciągnąć nawet najmniejszy plus który w tym ogromym minusie się znajduje, warto go zapamiętać, bo nie raz przydał mi się w przyszłości a sytuacja minusowa staje sie chociaż minimalnie lezejsza jesli wiesz że coś udało się z niej wyciągnąć🙂‍↕️💗"
     ],
     "wspierające": [
-        "Jestem tutaj, by Cię wspierać, bez względu na wszystko 🤝",
+        "Wiadomość testowa",
         "Wiem, że czasami są cięższe dni, ale zawsze możesz na mnie liczyć i zawsze będę przy tobie💞 jeśli nie fizycznie to na pewno psychicznie😊❤️",
 
         "Jestem z ciebie bardzo dumny💗💗 nawet gdy wszyscyci mówią, że niewystarczająco się starasz,ja wiem, że robisz bardzo dużo, i często przez to nie masz czasu dla siebie🙁❤️ ja to widzęi bardzo cie kocham kasia💗❤️",
