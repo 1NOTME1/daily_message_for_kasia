@@ -17,13 +17,15 @@ document.addEventListener("DOMContentLoaded", function() {
     "motywujące": [
         "Wierz w siebie, Jesteś zdolna do większych rzeczy, niż myślisz😊❤️‍🔥",
 
-        "Nie zniechęcaj się gdy jest stoi przed tobą przeszkadza😊 Jesteś silna i odważania i wiem, że sobie poradzisz ze wszystkim a jak będę cie wspierał jak tylko mogę❤️‍🔥🌟",
+        "Nie zniechęcaj się gdy jest stoi przed tobą przeszkoda😊 Jesteś silna i odważania i wiem, że sobie poradzisz ze wszystkim a jak będę cię wspierał jak tylko mogę❤️‍🔥🌟",
 
          "🌸Bardzo sie czeszę, ze jesteś w moim życiu, bo jest bardziej radoane💗🌸",
         // Nowe wiadomości
         "Bardzo przydatną umiejętnością jest bycie świadomym w jaką emocje lub stan akurlanie odczuwasz, ponieważgdy to wiesz, możesz spróbować ją poczuć zastanowić się czy ci służy a jeśli nie to ją swiadomie zgasić poprzez zaakceptowanie i przekoerowanie swojej uwagi na coś innego💝,
+
         "``Only you can decide how this situation will effect you`` jedno z najbardziej przydatnych zdań które staram się pamiętać i mam je nawet zapisane na ekranie blokady💕",
-        "Wierzę w Ciebie i w Twoje marzen"
+
+        "Gdy przydarzyła ci się jakaś zła sytuacja, nawet taka którejsie nie da naprawić, zawsze uważam, że nawet z bardzo złych sytuacji może wyciągnąć nawet najmniejszy plus który w tym ogromym minusie się znajduje, warto go zapamiętać, bo nie raz przydał mi się w przyszłości a sytuacja minusowa staje sie chociaż minimalnie lezejsza jesli wiesz że coś udało się z niej wyciągnąć🙂‍↕️💗"
     ],
     "wspierające": [
         "Jestem tutaj, by Cię wspierać, bez względu na wszystko 🤝",
