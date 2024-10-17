@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const messages = {
     "miłosne": [
-        "Kocham Cię bardziej niż wczoraj, ale mniej niż jutro ❤️",
+        "Kocham Cię najbardziej na świecie❤️",
         "Nie mogę przestać myśleć o tobie 🥰 Jesteś moim spełnionym marzeniem ✨",
         
         "Kocham się wpatrywać w twoje brązowe oczy niczym galaktyka🌌😊 pełne głębi i piękna, które hipnotyzują za każdym spojrzeniem😶‍🌫️💞",
