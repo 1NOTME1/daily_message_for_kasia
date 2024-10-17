@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const messages = {
     "miłosne": [
         "Kocham Cię bardziej niż wczoraj, ale mniej niż jutro ❤️",
-        "Nie mogę przestać myśleć o Tobie 😘 Jesteś moim spełnionym marzeniem ✨",
+        "Nie mogę przestać myśleć o Tobie 🥰 Jesteś moim spełnionym marzeniem ✨",
         "Jesteś moim światłem w ciemności i promieniem słońca każdego dnia ☀️",
         // Nowe wiadomości
         "Twoje oczy są jak najpiękniejsze gwiazdy na niebie ✨",
