@@ -54,7 +54,7 @@ body {
 
 .back {
     transform: rotateY(180deg);
-    background-color: #3e3e3e;
+    background-color: #2e2e2e;
     color: #ffd700;
     text-align: center;
     padding: 20px;
