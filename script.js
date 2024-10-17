@@ -27,13 +27,14 @@ document.addEventListener("DOMContentLoaded", function() {
     ],
     "wspierające": [
         "Wiadomość testowa",
+
         "Wiem, że czasami są cięższe dni, ale zawsze możesz na mnie liczyć i zawsze będę przy tobie💞 jeśli nie fizycznie to na pewno psychicznie😊❤️",
 
         "Jestem z ciebie bardzo dumny💗💗 nawet gdy wszyscyci mówią, że niewystarczająco się starasz,ja wiem, że robisz bardzo dużo, i często przez to nie masz czasu dla siebie🙁❤️ ja to widzęi bardzo cie kocham kasia💗❤️",
 
         "Zawsze będę cię wspierał w twoich celach i postanowieniach🌸❤️‍🔥, chce ci dawać wszystko co najlepsze i potrzebne💝❤️",
         "Jesteś silniejsza, niż myślisz 💪",
-        "Zawsze będę Twoim wsparciem, niezależnie od okoliczności 🤍"
+        "Pamiętaj, zależy mi na tobie tak bardzo, że jestem w stanie tego samego dnia wejść w pociągu by sie u ciebie pojawić jesli tylko byśtego potrzebowała😶‍🌫️❤️"
     ]
 };
 
