@@ -3,20 +3,22 @@ document.addEventListener("DOMContentLoaded", function() {
     "miłosne": [
         "Kocham Cię bardziej niż wczoraj, ale mniej niż jutro ❤️",
         "Nie mogę przestać myśleć o tobie 🥰 Jesteś moim spełnionym marzeniem ✨",
-        "Jesteś moim światłem w ciemności i promieniem słońca każdego dnia ☀️",
+        "",
         // Nowe wiadomości
         "Twoje oczy są jak najpiękniejsze gwiazdy na niebie ✨",
         "Każda chwila spędzona z Tobą to skarb 💖",
         "Twój uśmiech rozjaśnia mój dzień 😊"
     ],
     "motywujące": [
-        "Wierz w siebie 💪 Jesteś zdolna do większych rzeczy, niż myślisz!",
-        "Nie poddawaj się😊 Jesteś silna i wiem, że osiągniesz wszystko, czego pragniesz 🌟",
-        "Każdy dzień to nowa szansa na spełnianie marzeń ✨ Zawsze będę przy Tobie 🤗",
+        "Wierz w siebie, Jesteś zdolna do większych rzeczy, niż myślisz😊❤️‍🔥",
+
+        "Nie zniechęcaj się gdy jest stoi przed tobą przeszkadza😊 Jesteś silna i odważania i wiem, że sobie poradzisz ze wszystkim a jak będę cie wspierał jak tylko mogę❤️‍🔥🌟",
+
+         "🌸Bardzo sie czeszę, ze jesteś w moim życiu, bo jest bardziej radoane💗🌸",
         // Nowe wiadomości
         "Twoja determinacja jest inspirująca 🔥",
         "Masz w sobie nieskończony potencjał 🌟 Nie zapominaj o tym!",
-        "Wierzę w Ciebie i w Twoje marzenia 🌈"
+        "Wierzę w Ciebie i w Twoje marzen"
     ],
     "wspierające": [
         "Jestem tutaj, by Cię wspierać, bez względu na wszystko 🤝",
