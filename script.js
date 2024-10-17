@@ -1,21 +1,34 @@
 document.addEventListener("DOMContentLoaded", function() {
     const messages = {
-        "miłosne": [
-            "Kocham Cię bardziej niż wczoraj, ale mniej niż jutro.",
-            "Nie mogę przestać myśleć o Tobie, jesteś moim marzeniem, które się spełniło.",
-            "Jesteś moim światłem w ciemności i promieniem słońca każdego dnia."
-        ],
-        "motywujące": [
-            "Wierz w siebie, bo jesteś zdolna do większych rzeczy, niż myślisz!",
-            "Nie poddawaj się, jesteś silna i wiem, że osiągniesz wszystko, czego pragniesz.",
-            "Każdy dzień to nowa szansa na spełnianie marzeń, a ja zawsze będę przy Tobie."
-        ],
-        "wspierające": [
-            "Jestem tutaj, by Cię wspierać, bez względu na wszystko.",
-            "Wiem, że czasami jest ciężko, ale zawsze możesz na mnie liczyć.",
-            "Nigdy nie jesteś sama, zawsze masz mnie po swojej stronie."
-        ]
-    };
+    "miłosne": [
+        "Kocham Cię bardziej niż wczoraj, ale mniej niż jutro ❤️",
+        "Nie mogę przestać myśleć o Tobie 😘 Jesteś moim spełnionym marzeniem ✨",
+        "Jesteś moim światłem w ciemności i promieniem słońca każdego dnia ☀️",
+        // Nowe wiadomości
+        "Twoje oczy są jak najpiękniejsze gwiazdy na niebie ✨",
+        "Każda chwila spędzona z Tobą to skarb 💖",
+        "Twój uśmiech rozjaśnia mój dzień 😊"
+    ],
+    "motywujące": [
+        "Wierz w siebie 💪 Jesteś zdolna do większych rzeczy, niż myślisz!",
+        "Nie poddawaj się! Jesteś silna i wiem, że osiągniesz wszystko, czego pragniesz 🌟",
+        "Każdy dzień to nowa szansa na spełnianie marzeń ✨ Zawsze będę przy Tobie 🤗",
+        // Nowe wiadomości
+        "Twoja determinacja jest inspirująca 🔥",
+        "Masz w sobie nieskończony potencjał 🌟 Nie zapominaj o tym!",
+        "Wierzę w Ciebie i w Twoje marzenia 🌈"
+    ],
+    "wspierające": [
+        "Jestem tutaj, by Cię wspierać, bez względu na wszystko 🤝",
+        "Wiem, że czasami jest ciężko, ale zawsze możesz na mnie liczyć ❤️",
+        "Nigdy nie jesteś sama, zawsze masz mnie po swojej stronie 🤗",
+        // Nowe wiadomości
+        "Pamiętaj, że po burzy zawsze wychodzi słońce ☀️",
+        "Jesteś silniejsza, niż myślisz 💪",
+        "Zawsze będę Twoim wsparciem, niezależnie od okoliczności 🤍"
+    ]
+};
+
 
     let selectedCategory = null;
     let message = "";
