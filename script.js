@@ -33,9 +33,8 @@ document.addEventListener("DOMContentLoaded", function() {
     const card = document.querySelector('.card');
     const categorySelect = document.getElementById('categorySelect');
 
-    // Ustal datę początkową na dzisiejszą datę
-    const startDate = new Date();
-    startDate.setHours(0, 0, 0, 0); // Ustaw godzinę na 0:00:00
+    // Ustal datę początkową na 16 października 2024
+    const startDate = new Date(2024, 9, 16); // Miesiące są indeksowane od 0 (0 = styczeń)
 
     // Pobierz dzisiejszą datę i ustaw godzinę na 0:00:00
     const today = new Date();
