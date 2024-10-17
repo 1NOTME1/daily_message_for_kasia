@@ -30,9 +30,11 @@ document.addEventListener("DOMContentLoaded", function() {
     "wspierające": [
         "Jestem tutaj, by Cię wspierać, bez względu na wszystko 🤝",
         "Wiem, że czasami są cięższe dni, ale zawsze możesz na mnie liczyć i zawsze będę przy tobie💞 jeśli nie fizycznie to na pewno psychicznie😊❤️",
+
         "Jestem z ciebie bardzo dumny💗💗 nawet gdy wszyscyci mówią, że niewystarczająco się starasz,ja wiem, że robisz bardzo dużo, i często przez to nie masz czasu dla siebie🙁❤️ ja to widzęi bardzo cie kocham kasia💗❤️",
+
         // Nowe wiadomości
-        "Pamiętaj, że po burzy zawsze wychodzi słońce ☀️",
+        "Zawsze będę cię wspierał w twoich celach i postanowieniach🌸❤️‍🔥, chce ci dawać wszystko co najlepsze i potrzebne💝❤️",
         "Jesteś silniejsza, niż myślisz 💪",
         "Zawsze będę Twoim wsparciem, niezależnie od okoliczności 🤍"
     ]
