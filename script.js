@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function() {
     ],
     "motywujące": [
         "Wierz w siebie 💪 Jesteś zdolna do większych rzeczy, niż myślisz!",
-        "Nie poddawaj się! Jesteś silna i wiem, że osiągniesz wszystko, czego pragniesz 🌟",
+        "Nie poddawaj się😊 Jesteś silna i wiem, że osiągniesz wszystko, czego pragniesz 🌟",
         "Każdy dzień to nowa szansa na spełnianie marzeń ✨ Zawsze będę przy Tobie 🤗",
         // Nowe wiadomości
         "Twoja determinacja jest inspirująca 🔥",
