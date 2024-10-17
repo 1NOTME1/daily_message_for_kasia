@@ -3,12 +3,15 @@ document.addEventListener("DOMContentLoaded", function() {
     "miłosne": [
         "Kocham Cię bardziej niż wczoraj, ale mniej niż jutro ❤️",
         "Nie mogę przestać myśleć o tobie 🥰 Jesteś moim spełnionym marzeniem ✨",
-        "",
+        
         // Nowe wiadomości
-        "Twoje oczy są jak najpiękniejsze gwiazdy na niebie ✨",
-        "Każda chwila spędzona z Tobą to skarb 💖",
-        "Twój uśmiech rozjaśnia mój dzień 😊"
+        "Kocham się wpatrywać w twoje brązowe oczy niczym galaktyka🌌😊 pełne głębi i piękna, które hipnotyzują za każdym spojrzeniem😶‍🌫️💞",
+
+        "Myśl o tym, że mam tak cudowną dziewczynę sprawia, że chce się starać być dla mniej jeszcze lepszą wersją siebie💖",
+
+        "Twój uśmiech jest najpiękniejsza rzeczą jaką mogę sobie wyobrazić🤭🥰"
     ],
+
     "motywujące": [
         "Wierz w siebie, Jesteś zdolna do większych rzeczy, niż myślisz😊❤️‍🔥",
 
