@@ -4,7 +4,6 @@ document.addEventListener("DOMContentLoaded", function() {
         "Kocham Cię bardziej niż wczoraj, ale mniej niż jutro ❤️",
         "Nie mogę przestać myśleć o tobie 🥰 Jesteś moim spełnionym marzeniem ✨",
         
-        // Nowe wiadomości
         "Kocham się wpatrywać w twoje brązowe oczy niczym galaktyka🌌😊 pełne głębi i piękna, które hipnotyzują za każdym spojrzeniem😶‍🌫️💞",
 
         "Myśl o tym, że mam tak cudowną dziewczynę sprawia, że chce być dla niej jeszcze lepszą wersją siebie💖",
@@ -20,7 +19,6 @@ document.addEventListener("DOMContentLoaded", function() {
         "Nie zniechęcaj się gdy jest stoi przed tobą przeszkoda😊 Jesteś silna i odważania i wiem, że sobie poradzisz ze wszystkim a jak będę cię wspierał jak tylko mogę❤️‍🔥🌟",
 
          "🌸Bardzo sie czeszę, ze jesteś w moim życiu, bo jest bardziej radoane💗🌸",
-        // Nowe wiadomości
         "Bardzo przydatną umiejętnością jest bycie świadomym w jaką emocje lub stan akurlanie odczuwasz, ponieważgdy to wiesz, możesz spróbować ją poczuć zastanowić się czy ci służy a jeśli nie to ją swiadomie zgasić poprzez zaakceptowanie i przekoerowanie swojej uwagi na coś innego💝",
 
         "[Only you can decide how this situation will effect you] jedno z najbardziej przydatnych zdań które staram się pamiętać i mam je nawet zapisane na ekranie blokady💕",
@@ -33,7 +31,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
         "Jestem z ciebie bardzo dumny💗💗 nawet gdy wszyscyci mówią, że niewystarczająco się starasz,ja wiem, że robisz bardzo dużo, i często przez to nie masz czasu dla siebie🙁❤️ ja to widzęi bardzo cie kocham kasia💗❤️",
 
-        // Nowe wiadomości
         "Zawsze będę cię wspierał w twoich celach i postanowieniach🌸❤️‍🔥, chce ci dawać wszystko co najlepsze i potrzebne💝❤️",
         "Jesteś silniejsza, niż myślisz 💪",
         "Zawsze będę Twoim wsparciem, niezależnie od okoliczności 🤍"
