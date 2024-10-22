@@ -3,40 +3,40 @@ document.addEventListener("DOMContentLoaded", function() {
     "miłosne": [
         "Kocham Cię najbardziej na świecie❤️",
         "Nie mogę przestać myśleć o tobie 🥰 Jesteś moim spełnionym marzeniem ✨",
-        
         "Kocham się wpatrywać w twoje brązowe oczy niczym galaktyka🌌😊 pełne głębi i piękna, które hipnotyzują za każdym spojrzeniem😶‍🌫️💞",
-
-        "Myśl o tym, że mam tak cudowną dziewczynę sprawia, że chce być dla niej jeszcze lepszą wersją siebie💖",
-
-        "Twój uśmiech jest najpiękniejsza rzeczą jaką mogę sobie wyobrazić🤭🥰",
-
-       "To niesamowite, że los padarował mi tak mądrą, ambitną, piękna i o odważna dziewczynę od której nauczyłem się tak wiele o w tak krótkim czasie💗"
+        "Myśl o tym, że mam tak cudowną dziewczynę sprawia, że chcę być dla niej jeszcze lepszą wersją siebie💖",
+        "Twój uśmiech jest najpiękniejszą rzeczą, jaką mogę sobie wyobrazić🤭🥰",
+        "To niesamowite, że los podarował mi tak mądrą, ambitną, piękną i odważną dziewczynę, od której nauczyłem się tak wiele w tak krótkim czasie💗",
+        "Każda chwila spędzona z tobą to najcenniejszy skarb w moim życiu💎❤️",
+        "Kocham słuchać jak opowiadasz i śmiejesz się💖 uwielbiam twoje głosówki😊",
+        "Twoja obecność sprawia, że wszystko staje się lepsze🌟💖",
+        "Nie mogę się doczekać, aż znów cię zobaczę i przytulę🤗💞",
+        "Każdego dnia kocham cię coraz bardziej💗✨"
     ],
 
     "motywujące": [
-        "Wierz w siebie, Jesteś zdolna do większych rzeczy, niż myślisz😊❤️‍🔥",
-
-        "Nie zniechęcaj się gdy jest stoi przed tobą przeszkoda😊 Jesteś silna i odważania i wiem, że sobie poradzisz ze wszystkim a jak będę cię wspierał jak tylko mogę❤️‍🔥🌟",
-
-         "🌸Bardzo sie czeszę, ze jesteś w moim życiu, bo jest bardziej radoane💗🌸",
-        "Bardzo przydatną umiejętnością jest bycie świadomym w jaką emocje lub stan akurlanie odczuwasz, ponieważgdy to wiesz, możesz spróbować ją poczuć zastanowić się czy ci służy a jeśli nie to ją swiadomie zgasić poprzez zaakceptowanie i przekoerowanie swojej uwagi na coś innego💝",
-
-        "[Only you can decide how this situation will effect you] jedno z najbardziej przydatnych zdań które staram się pamiętać i mam je nawet zapisane na ekranie blokady💕",
-
-        "Gdy przydarzyła ci się jakaś zła sytuacja, nawet taka którejsie nie da naprawić, zawsze uważam, że nawet z bardzo złych sytuacji może wyciągnąć nawet najmniejszy plus który w tym ogromym minusie się znajduje, warto go zapamiętać, bo nie raz przydał mi się w przyszłości a sytuacja minusowa staje sie chociaż minimalnie lezejsza jesli wiesz że coś udało się z niej wyciągnąć🙂‍↕️💗"
+        "Wierz w siebie, jesteś zdolna do większych rzeczy, niż myślisz😊❤️‍🔥",
+        "Nie zniechęcaj się, gdy stoi przed tobą przeszkoda😊 Jesteś silna i odważna, wiem, że sobie poradzisz ze wszystkim, a ja będę cię wspierał jak tylko mogę❤️‍🔥🌟",
+        "🌸Bardzo się cieszę, że jesteś w moim życiu, bo jest bardziej radosne💗🌸",
+        "Bardzo przydatną umiejętnością jest bycie świadomym, jakie emocje lub stan aktualnie odczuwasz, ponieważ gdy to wiesz, możesz spróbować ją poczuć, zastanowić się czy ci służy, a jeśli nie, to ją świadomie zgasić poprzez zaakceptowanie i przekierowanie swojej uwagi na coś innego💝",
+        "[Only you can decide how this situation will affect you] jedno z najbardziej przydatnych zdań, które staram się pamiętać i mam je nawet zapisane na ekranie blokady💕",
+        "Gdy przydarzy ci się jakaś zła sytuacja, nawet taka, której nie da się naprawić, zawsze uważam, że nawet z bardzo złych sytuacji można wyciągnąć najmniejszy plus, który w tym ogromnym minusie się znajduje. Warto go zapamiętać, bo nie raz przydał mi się w przyszłości, a sytuacja minusowa staje się chociaż minimalnie lżejsza, jeśli wiesz, że coś udało się z niej wyciągnąć🙂‍↕️💗",
+        "Twoja determinacja jest inspirująca🔥❤️",
+        "Każde wyzwanie to kolejna okazja do wzrostu🌱💖",
+        "Wiem, że możesz wszystko, co tylko sobie postanowisz✨💗",
+        "Nigdy nie trać wiary w siebie, bo jesteś niezwykła🌟🥰"
     ],
+
     "wspierające": [
-        "Wiadomość testowa",
-
-        "Wiem, że czasami są cięższe dni, ale zawsze możesz na mnie liczyć i zawsze będę przy tobie💞 jeśli nie fizycznie to na pewno psychicznie😊❤️",
-
-        "Jestem z ciebie bardzo dumny💗💗 nawet gdy wszyscyci mówią, że niewystarczająco się starasz,ja wiem, że robisz bardzo dużo, i często przez to nie masz czasu dla siebie🙁❤️ ja to widzęi bardzo cie kocham kasia💗❤️",
-
-        "Zawsze będę cię wspierał w twoich celach i postanowieniach🌸❤️‍🔥, chce ci dawać wszystko co najlepsze i potrzebne💝❤️",
-
-        "Zawsze gdy masz jakieś ważne wydarzenie następnego dnia, wyobrażam i manifestuję je w swojej głowie tak dokladnie jak tylko potrafię, ponieważ Wierzę, że myśli i to co się chronicznie powtarza w głowie kreuje rzeczywistość😊❤️",
-
-        "Pamiętaj, zależy mi na tobie tak bardzo, że jestem w stanie tego samego dnia wejść w pociągu by sie u ciebie pojawić jesli tylko byśtego potrzebowała😶‍🌫️❤️"
+        "Wiem, że czasami są cięższe dni, ale zawsze możesz na mnie liczyć i zawsze będę przy tobie💞 Jeśli nie fizycznie, to na pewno psychicznie😊❤️",
+        "Jestem z ciebie bardzo dumny💗💗 Nawet gdy wszyscy mówią, że niewystarczająco się starasz, ja wiem, że robisz bardzo dużo i często przez to nie masz czasu dla siebie🙁❤️ Ja to widzę i bardzo cię kocham, Kasia💗❤️",
+        "Zawsze będę cię wspierał w twoich celach i postanowieniach🌸❤️‍🔥 Chcę ci dawać wszystko, co najlepsze i potrzebne💝❤️",
+        "Zawsze, gdy masz jakieś ważne wydarzenie następnego dnia, wyobrażam i manifestuję je w swojej głowie tak dokładnie, jak tylko potrafię, ponieważ wierzę, że myśli i to, co się chronicznie powtarza w głowie, kreuje rzeczywistość😊❤️",
+        "Pamiętaj, zależy mi na tobie tak bardzo, że jestem w stanie tego samego dnia wsiąść w pociąg, by się u ciebie pojawić, jeśli tylko byś tego potrzebowała😶‍🌫️❤️",
+        "Jestem tu dla ciebie, niezależnie od wszystkiego🤗💞",
+        "Twoje uczucia są dla mnie najważniejsze, zawsze możesz ze mną porozmawiać😊💗",
+        "Nie jesteś sama w tym, zawsze masz mnie u swojego boku💖",
+        "Twoje szczęście jest moim priorytetem🌸🥰"
     ]
 };
 
