@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "Każda chwila spędzona z tobą to najcenniejszy skarb w moim życiu💎❤️",
         "Kocham słuchać jak opowiadasz i śmiejesz się💖 uwielbiam twoje głosówki😊",
         "Twoja obecność sprawia, że wszystko staje się lepsze🌟💖",
-        "Nie mogę się doczekać, aż znów cię zobaczę i przytulę🤗💞",
+        "Nie mogę się doczekać, aż znów cię zobaczę i przytulę🤗💞", 
         "Każdego dnia kocham cię coraz bardziej💗✨"
     ],
 
