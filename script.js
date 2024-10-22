@@ -21,10 +21,11 @@ document.addEventListener("DOMContentLoaded", function() {
         "Bardzo przydatną umiejętnością jest bycie świadomym, jakie emocje lub stan aktualnie odczuwasz, ponieważ gdy to wiesz, możesz spróbować ją poczuć, zastanowić się czy ci służy, a jeśli nie, to ją świadomie zgasić poprzez zaakceptowanie i przekierowanie swojej uwagi na coś innego💝",
         "[Only you can decide how this situation will affect you] jedno z najbardziej przydatnych zdań, które staram się pamiętać i mam je nawet zapisane na ekranie blokady💕",
         "Gdy przydarzy ci się jakaś zła sytuacja, nawet taka, której nie da się naprawić, zawsze uważam, że nawet z bardzo złych sytuacji można wyciągnąć najmniejszy plus, który w tym ogromnym minusie się znajduje. Warto go zapamiętać, bo nie raz przydał mi się w przyszłości, a sytuacja minusowa staje się chociaż minimalnie lżejsza, jeśli wiesz, że coś udało się z niej wyciągnąć🙂‍↕️💗",
-        "Twoja determinacja jest inspirująca🔥❤️",
-        "Każde wyzwanie to kolejna okazja do wzrostu🌱💖",
         "Wiem, że możesz wszystko, co tylko sobie postanowisz✨💗",
         "Nigdy nie trać wiary w siebie, bo jesteś niezwykła🌟🥰"
+        "Każde wyzwanie to kolejna okazja do wzrostu💖"
+        
+        
     ],
 
     "wspierające": [
@@ -35,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "Pamiętaj, zależy mi na tobie tak bardzo, że jestem w stanie tego samego dnia wsiąść w pociąg, by się u ciebie pojawić, jeśli tylko byś tego potrzebowała😶‍🌫️❤️",
         "Jestem tu dla ciebie, niezależnie od wszystkiego🤗💞",
         "Twoje uczucia są dla mnie najważniejsze, zawsze możesz ze mną porozmawiać😊💗",
-        "Nie jesteś sama w tym, zawsze masz mnie u swojego boku💖",
+        "Nie jesteś sama, zawsze masz mnie u swojego boku💖",
         "Twoje szczęście jest moim priorytetem🌸🥰"
     ]
 };
