@@ -22,8 +22,10 @@ document.addEventListener("DOMContentLoaded", function() {
         "[Only you can decide how this situation will affect you] jedno z najbardziej przydatnych zdań, które staram się pamiętać i mam je nawet zapisane na ekranie blokady💕",
         "Gdy przydarzy ci się jakaś zła sytuacja, nawet taka, której nie da się naprawić, zawsze uważam, że nawet z bardzo złych sytuacji można wyciągnąć najmniejszy plus, który w tym ogromnym minusie się znajduje. Warto go zapamiętać, bo nie raz przydał mi się w przyszłości, a sytuacja minusowa staje się chociaż minimalnie lżejsza, jeśli wiesz, że coś udało się z niej wyciągnąć🙂‍↕️💗",
         "Wiem, że możesz wszystko, co tylko sobie postanowisz✨💗",
+
         "Nigdy nie trać wiary w siebie, bo jesteś niezwykła🌟🥰",
-        "Każde wyzwanie to kolejna okazja do wzrostu💖"
+
+        "Wierz w siebie, jesteś zdolna do większych rzeczy, niż myślisz😊❤️‍🔥"
         
         
     ],
